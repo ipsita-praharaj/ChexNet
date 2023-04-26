@@ -231,7 +231,6 @@ NORMAL2-IM-0317-0001.jpeg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 NORMAL2-IM-0359-0001.jpeg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 NORMAL2-IM-0339-0001.jpeg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 NORMAL2-IM-0370-0001.jpeg	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-normal_results.txt	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 person109_bacteria_519.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 person122_bacteria_583.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 person134_bacteria_641.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
@@ -621,4 +620,3 @@ person78_bacteria_385.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 person81_bacteria_396.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 person96_bacteria_466.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 person70_virus_130.jpeg	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-pneumonia_results.txt	0	0	0	0	0	0	1	0	0	0	0	0	0	0
